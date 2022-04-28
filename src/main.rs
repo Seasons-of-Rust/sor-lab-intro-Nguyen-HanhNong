@@ -6,6 +6,7 @@ fn main() {
 mod tests {
     #[test]
     fn it_works() {
-        assert_eq!(1 + 1, 3); // Fix this line! Both sides should be equal.
+        assert_eq!(1 + 1 + 1, 3); // Fix this line! Both sides should be equal.
+        //fixed the line by making both sides equal 3
     }
 }
